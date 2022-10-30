@@ -1,5 +1,6 @@
 const myArgs = process.argv.slice(2);
 const n = Number(myArgs[0]);
+
 let map = Array(n + 2);
 for (let i = 0; i < n + 2; i++) {
     map[i] = Array(n + 2);
