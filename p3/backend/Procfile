@@ -1,1 +1,1 @@
-web: nodemon server.js --ext js --exec babel-node
+web: yarn server
