@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const instance = axios.create({baseURL: 'http://localhost:4000/api/neo'})
+const instance = axios.create({baseURL: 'https://weitude-ntucourse-neo-hw.herokuapp.com/api/neo'})
 
 const course = async () => {
     const {data: {courseList}} = await instance.post('/course')
