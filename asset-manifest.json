@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/NTUCourse-Neo-HW/static/css/main.073c9b0a.css",
-    "main.js": "/NTUCourse-Neo-HW/static/js/main.f4c221a7.js",
-    "static/js/787.cda612ba.chunk.js": "/NTUCourse-Neo-HW/static/js/787.cda612ba.chunk.js",
-    "static/media/logo.svg": "/NTUCourse-Neo-HW/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/NTUCourse-Neo-HW/static/css/main.4400e1a5.css",
+    "main.js": "/NTUCourse-Neo-HW/static/js/main.6e964293.js",
     "index.html": "/NTUCourse-Neo-HW/index.html",
-    "main.073c9b0a.css.map": "/NTUCourse-Neo-HW/static/css/main.073c9b0a.css.map",
-    "main.f4c221a7.js.map": "/NTUCourse-Neo-HW/static/js/main.f4c221a7.js.map",
-    "787.cda612ba.chunk.js.map": "/NTUCourse-Neo-HW/static/js/787.cda612ba.chunk.js.map"
+    "main.4400e1a5.css.map": "/NTUCourse-Neo-HW/static/css/main.4400e1a5.css.map",
+    "main.6e964293.js.map": "/NTUCourse-Neo-HW/static/js/main.6e964293.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f4c221a7.js"
+    "static/css/main.4400e1a5.css",
+    "static/js/main.6e964293.js"
   ]
 }
