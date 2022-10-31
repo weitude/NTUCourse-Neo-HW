@@ -6,7 +6,7 @@ const outputFileName = 'clean_data.csv';
 async function parseJSONFile(fileName) {
     try {
         const file = await readFile(fileName);
-        return JSON.parse(file.toString('utf-8'));
+        return JSON.parse(file.toString());
     } catch (err) {
         console.log(err);
         process.exit(1);

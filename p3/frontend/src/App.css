@@ -1,0 +1,38 @@
+.App {
+    text-align: center;
+    margin-top: 1%;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.rightPart {
+    width: 450px;
+    height: 524px;
+    background-color: #3dc996;
+    position: relative;
+}
+
+.done {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 50px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.dnd {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    margin-top: 30px;
+    width: 70vw;
+    text-align: center;
+}

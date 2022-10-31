@@ -1,0 +1,27 @@
+.card {
+    border: 1px solid gray;
+    padding: 0.5rem 0.5rem;
+    margin-bottom: 0.5rem;
+    background-color: white;
+    display: flex;
+    width: 350px;
+    justify-content: space-between;
+}
+
+.drag {
+    cursor: move;
+}
+
+.text {
+    width: 270px;
+}
+
+.num {
+    width: 20px;
+    background-color: #b2b6b6;
+}
+
+.trashcan:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
