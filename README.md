@@ -28,12 +28,14 @@ node parse.js
 
 frontend 我使用 `create-react-app` 生成
 
-首先先用 axios 向 server 請求，得到 `course_list.json` 後，再用 map 函式以及 CourseBox.js 生成左邊的 "Course Information"
+首先先用 axios 向 server 請求，得到 `course_list.json` 後
+
+再用 map 函式以及 CourseBox.js 生成左邊的 "Course Information"
 
 至於右邊的 "Course I Plan to Take"，我則主要是使用 [React DnD](https://react-dnd.github.io/react-dnd/about)
 來實作 Drag and Drop
 
-github branch 則分成 `main` & `gh-pages`
+Github branch 則分成 `main` & `gh-pages`
 
 前者用來存原始代碼，後者則是用來部署 react render 後的網頁
 
