@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NTUCourse-Neo-HW/static/css/main.4400e1a5.css",
+    "main.css": "/NTUCourse-Neo-HW/static/css/main.ceb4c652.css",
     "main.js": "/NTUCourse-Neo-HW/static/js/main.99e8c025.js",
     "index.html": "/NTUCourse-Neo-HW/index.html",
-    "main.4400e1a5.css.map": "/NTUCourse-Neo-HW/static/css/main.4400e1a5.css.map",
+    "main.ceb4c652.css.map": "/NTUCourse-Neo-HW/static/css/main.ceb4c652.css.map",
     "main.99e8c025.js.map": "/NTUCourse-Neo-HW/static/js/main.99e8c025.js.map"
   },
   "entrypoints": [
-    "static/css/main.4400e1a5.css",
+    "static/css/main.ceb4c652.css",
     "static/js/main.99e8c025.js"
   ]
 }
