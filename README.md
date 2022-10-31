@@ -47,7 +47,7 @@ Github branch 則分成 `main` & `gh-pages`
 
 先 import `course_list.json`，然後再處理 RESTful API
 
-然後撰寫 heroku 需要的 `Procfile`，並將 server 部署到上面
+最後撰寫 heroku 需要的 `Procfile`，並將 server 部署到上面
 
 網址：https://weitude-ntucourse-neo-hw.herokuapp.com
 
